@@ -24,9 +24,8 @@ Explore Tiiimer and take control of your time:
 
 ## 🛠 Installation  
 
-1. Open [Tiiimer](https://tiiimer.vercel.app/) on your preferred browser.  
-2. No download required—Tiiimer runs directly in your browser!  
-3. Start setting your work and break timers and enjoy Spotify integration!  
+1. Open [Tiiimer](https://tiiimer.vercel.app/) on your preferred browser. 
+2. Start setting your work and break timers and enjoy Spotify integration!  
 
 ---
 
